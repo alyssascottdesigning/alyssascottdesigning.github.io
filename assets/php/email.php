@@ -1,8 +1,8 @@
 <?php
 mb_internal_encoding("UTF-8");
 
-$to = 'hello@example.com';
-$subject = 'Message from Photollax Template';
+$to = 'alyssabritscott2001@gmail.com';
+$subject = 'Message from Portfolio Site';
 
 $name = "";
 $email = "";
