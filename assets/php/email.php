@@ -1,7 +1,7 @@
 <?php
 mb_internal_encoding("UTF-8");
 
-$to = 'alyssabritscott2001@gmail.com';
+$mailTo = 'alyssabritscott2001@gmail.com';
 $subject = 'Message from Portfolio Site';
 
 $name = "";
